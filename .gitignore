@@ -134,6 +134,7 @@ dmypy.json
 # Data -> Creado por el usuario
 
 data_folder/
+data/
 
 
 #############################################
